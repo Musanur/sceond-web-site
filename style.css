@@ -1,0 +1,328 @@
+body{
+    font-family: 'Noto Sans KR', sans-serif;
+    margin: 0px ;
+}
+.top-area{
+    float: left;
+    margin-top: -24px;
+    width: 50%;
+    margin-left: 20px;
+}
+.top-list a{
+    padding-right: 20px;
+    text-decoration: none;
+    color: grey;
+   
+
+}
+.top-list{
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.Fashion-area{
+    height: 650px;
+    background-image: linear-gradient(131deg,#ff6a88 0%,#ff99ac 100%)
+}
+.fashion{
+    width: 40%;
+    float: left;
+
+    margin-left: 5%;
+    padding-left: 2%
+
+}
+
+
+#text-wight{
+    width: 35%;
+}
+.photo{
+    width: 500px;
+    margin-top: 127px;
+    margin-left: 55px;
+
+}
+
+
+.head-line{
+    color: ghostwhite;
+    margin-top: 194px;
+    font-size: 65px;
+    border-bottom: 5px solid #edd84e;
+  
+}
+.paragraph{
+    font-size: 26px;
+    color: ghostwhite;
+}
+.fashion a{
+    text-decoration: none;
+    color: black;
+    background-color: #edd84e;
+    padding: 15px 30px;
+    box-shadow: 3px 3px 11px black;
+
+}
+
+.top-paragraph{
+    margin-top: -650px;
+    margin-left: 135px;
+}
+.font-area{
+    font-size: 65px;
+    border-bottom: 5px solid #edd84e
+}
+#color-highlight{
+    color: gray;
+}
+#down-img{
+margin-top: 250px;
+}
+.width-font{
+    font-size: 42px;
+    width: 140px;
+    margin-left: 159px;
+    margin-top: 75%;
+}
+
+.back-color{
+    width: 435px;
+    height: 560px;
+    background-color: #ff6a88 ;
+    margin-top: 70px;
+    margin-left: 158px;
+    box-shadow: 2px 2px 20px whitesmoke;
+
+}
+.bg-img-tow  {
+    width: 440px;
+    margin-left: 29px;
+    height: 600px;
+    margin-top: -33px;
+
+}
+
+.back-color{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%
+    margin-left: 0;
+
+}
+#wedding{
+    width: 530;
+    height: 560px;
+    background-color: whitesmoke ;
+    margin-top: 70px;
+    margin-left: 0px;
+}
+.mar-left{
+    margin-left: 100px;
+
+}
+.mar-left h1{
+    font-size: 40px;
+    color: #121111;
+    margin-top: 60px;
+
+}
+.mar-left p{
+    font-size: 20px;
+    margin-top: 60px;
+    color: dimgray;
+    margin-bottom: 100px;
+}
+.Fashion-area-three{
+    margin-left: 100px;
+}
+.mar-left a{
+    text-decoration: none;
+    color: white;
+    background-color: #ff6a88;
+    padding: 15px 30px;
+    box-shadow: 3px 3px 11px black;
+}
+.fashion-area-four{
+    margin-top: 65%;
+    margin-left: 100px;
+}
+#hight{
+    height: 560px;
+
+}
+#high-light {
+    width: 450px;
+    height: 550px;
+    margin-left: 25px;
+}
+.fashion-area-five{
+    margin-top: 125%;
+    margin-left: 100px;
+
+}
+.head-line-area{
+    display: inline-block;
+    width: 632px;
+    text-align: center;
+    margin-left: 25%;
+    margin-top: 10%;
+
+}
+.head-line-area h1{
+    font-weight: 700;
+    font-size: 40px;
+    color: #2b2b2b!important;
+}
+.head-line-area p{
+    color: #332b2b7d;
+
+}
+.picture-area{
+    margin-left: 100px;
+}
+.picture-area img{
+    width: 20%;
+    float: left;
+    display: block;
+    padding-left: 30px;
+
+}
+.fashion-are-six{
+    margin-top: 30px;
+}
+.para-line{
+    display: inline-block;
+    margin-left: 130px;
+    font-size: 13px;
+    margin-top: -10px;
+
+}
+.para-line p{
+    margin-bottom: 100px;
+
+}
+.academy{
+    margin-left: 83px;
+}
+.zodiac{
+    margin-left: 130px;
+}
+.academy-one{
+    margin-left: 133px;
+}
+#view{
+    color: gray;
+    border: 1px solid gray;
+    padding: 14px 30px;
+    text-decoration: none;
+    font-size: 18px;
+    margin-left: 470px;
+
+}
+#down-area{
+    margin-top: 100px;
+}
+#paragraph-down{
+    margin-top: 175px;
+}
+.fashion-are-seven{
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+
+}
+.picture-area-tow{
+  
+    float: left;
+    display: block;
+}
+.picture-area-tow img{
+    width: 20%;
+    padding-left: 30px;
+
+}
+.para-line-tow{
+    margin-left: 30px;
+    font-size: 14px;
+    color: #808080ab;
+
+}
+.academy-tow{
+    margin-left: 80px;
+}
+.zodiac-one{
+    margin-left: 45px;
+
+}
+.academy-three{
+    margin-left: 90px;
+
+}
+.para-line-tow p{
+    margin-bottom: 100px;
+}
+
+.login-area{
+    width: 40%;
+    float: left;
+
+    margin-left: 5%;
+    padding-left: 2%
+
+}
+
+
+#text-big{
+    width: 35%;
+}
+.login-area img{
+    width: 400px;
+    margin-top: -85px;
+
+    
+
+}
+
+
+.head-line{
+    color: ghostwhite;
+    margin-top: 194px;
+    font-size: 65px;
+    border-bottom: 5px solid #edd84e;
+  
+}
+.login-area h1{
+    font-size: 50px;
+    margin-top: 40px;
+    color: #fff;
+    
+}
+.login-area input{
+    margin-left: 31px;
+    border: none;
+    outline: none;
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 50px;
+    border: 2px solid white;
+    padding: 14px 50px;
+    margin-left: 0;
+
+
+}
+.login-area a{
+    text-decoration: none;
+    color: rgba(0,0,0,0.7);
+    border: 6px solid #f7d584;
+    background-color: #f7d584c4;
+    padding: 8px 130px;
+
+}
+.fashion-area-eight{
+    height: 422px;
+    background-image: linear-gradient(131deg,#ff6a88 0%,#ff99ac 100%);
+    margin-top: 250px;
+
+}
